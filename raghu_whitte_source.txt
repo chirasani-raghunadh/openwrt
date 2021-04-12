@@ -1,0 +1,10 @@
+WhiteSource provides your organization with full visibility and control over the risk associated with open source compliance.
+Governance visibility and methodologies enforcements include:
+
+A wide range of reports and dashboards designed for different audiences
+
+Extensive support in various languages and data sources for compliance scans
+
+Automation to ensure policies and workflows take place
+
+Thorough support in copyrights, notices and cross-SDLC license checks
